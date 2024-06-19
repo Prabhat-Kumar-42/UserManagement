@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "MERN",
+    "mongodb",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "Prabhat-Kumar-42",
+  "license": "ISC",
+  "description": "Learning MERN: MERN Project",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3",
+    "nodemon": "^3.1.3"
+  }
+}
